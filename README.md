@@ -1,7 +1,6 @@
 # WordPress
 
-**Semantic Personal Publishing Platform**
-
+![WordPress Logo](https://wordpress.org/wp-content/themes/pub/wporg/images/wp-logo-blue.png)
 ---
 
 ## 📝 First Things First
