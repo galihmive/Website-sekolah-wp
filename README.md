@@ -1,6 +1,7 @@
 # WordPress
 
-![WordPress Logo](https://wordpress.org/wp-content/themes/pub/wporg/images/wp-logo-blue.png)
+<img src="https://wordpress.org/wp-content/themes/pub/wporg/images/wp-logo-blue.png" alt="WordPress Logo" width="200">
+
 ---
 
 ## 📝 First Things First
