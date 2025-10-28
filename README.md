@@ -1,7 +1,7 @@
 # WordPress
-
-<img src="https://wordpress.org/wp-content/themes/pub/wporg/images/wp-logo-blue.png" alt="WordPress Logo" width="200">
-
+<p align="center">
+   <img src="https://wordpress.org/wp-content/themes/pub/wporg/images/wp-logo-blue.png" alt="WordPress Logo" width="200">
+</p>
 ---
 
 ## 📝 First Things First
